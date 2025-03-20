@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YoungGOD</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <div class="preloader">
+        <h1>Loading...</h1>
+    </div>
+    <header>
+        <h1 class="fade-in">YoungGOD</h1>
+        <nav>
+            <ul>
+                <li><a href="#shop">Shop Now</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#socials">Social Media</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="parallax">
+        <h2 class="fade-in">Welcome to YoungGOD</h2>
+    </section>
+    <footer>
+        <p>Contact: octoberbankhead@gmail.com</p>
+        <p>Follow us: 
+            <a href="https://x.com/YoungGOD1874870">Twitter</a> | 
+            <a href="https://www.instagram.com/younggodbofficial/">Instagram</a> | 
+            <a href="https://www.youtube.com/@YoungGodBOfficial">YouTube</a>
+        </p>
+    </footer>
+</body>
+</html>
